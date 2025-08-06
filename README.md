@@ -37,3 +37,9 @@
 - Receive notifications and updates
 - Secure login and profile management
 
+---
+
+### Contact me
+For questions or feedback, please reach out via [GitHub Issues](https://github.com/TeddyO323/online_exam_system/issues) or email: omosh60@gmail.com.
+
+
